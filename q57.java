@@ -2,9 +2,6 @@ import java.util.*;
 
 public class q57 {
     public static void main(String args[]) {
-        int[][] intervals = {{1,3}, {6,9}};
-        int[] newInterval = {2,5};
-        insert(intervals, new)
     }
 
     public static int[][] insert(int[][] intervals, int[] newInterval) {
